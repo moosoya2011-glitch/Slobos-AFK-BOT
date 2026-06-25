@@ -29,7 +29,6 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 500,
-      ]
     },
     "chat-log": true,
     "auto-reconnect": true,

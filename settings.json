@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "MonTea70.aternos.me",
+    "port": 38197,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
@@ -29,11 +29,6 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 500,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
